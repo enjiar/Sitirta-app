@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">222804893728-4csvvul2n1a4bmta5psron5hsu8k3c33.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">222804893728</string>
+    <string name="google_api_key" translatable="false">AIzaSyCyJ1BXoUZUIa_6_gWRFeWGzuKYQk8_MtU</string>
+    <string name="google_app_id" translatable="false">1:222804893728:android:9d8991b0ce2fd9fbebdc45</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyJ1BXoUZUIa_6_gWRFeWGzuKYQk8_MtU</string>
+    <string name="google_storage_bucket" translatable="false">sitirtaapp-cfd98.appspot.com</string>
+    <string name="project_id" translatable="false">sitirtaapp-cfd98</string>
+</resources>

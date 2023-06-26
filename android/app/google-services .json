@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423886840183",
+    "project_id": "sirirta-57594",
+    "storage_bucket": "sirirta-57594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423886840183:android:3a8f5daf1cc5a7b4d8c172",
+        "android_client_info": {
+          "package_name": "com.example.sitirta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423886840183-3d5odehibk9iegrjh218726qk51of447.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbS64UrZqNoTxYsojqMmoU40jajJrYXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423886840183-3d5odehibk9iegrjh218726qk51of447.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
